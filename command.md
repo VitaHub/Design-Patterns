@@ -1,3 +1,4 @@
+<a name="start"></a>
 [&larr; вернуться к
 содержанию](https://github.com/VitaHub/Design-Patterns#behavioral)
 
